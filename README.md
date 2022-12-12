@@ -19,7 +19,7 @@ python app.py
 
 ![main application window](Screenshots/Screenshot1.png)
 
-2. Drag and Drop the image you want to listen to.
+2. Drag and Drop the image you want to cover-up the text.
 
 ## Examples:
 
